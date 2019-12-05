@@ -9,7 +9,7 @@ If you are here, then you received an email with an overview of the process. Her
 * You can implement the acceptance criteria in whatever order you prefer, but we recommend you to start first with what you know best and feel most comfortable with.
 * Open **/src/AnibisBedTest.sln in Visual Studio 2015 or higher**. You will find 2 projects. In each of these projects some functionality should be implemented as described below.
 * **You are not allowed to add any more packages, libraries or references to any of the projects** 
-* When you're finished, **zip the code and send it to marc.wenger@scout24.ch and attila.magyar@scout24.ch (exclude packages, bin and obj folder from zip)**. The zip-file should be named anibis-bed-test-[firstname]-[lastname].zip.
+* When you're finished, **zip the code and send it to attila.magyar@scout24.ch (exclude packages, bin and obj folder from zip)**. The zip-file should be named anibis-bed-test-[firstname]-[lastname].zip.
 
 **If you cannot finish all tasks, that does not necessarily mean you are out! Complete the tasks as good as you can and then send the test back.**
 
