@@ -38,7 +38,7 @@ The program should transform the logfile **/src/Data/testdata.log** into an XML 
 * The line which starts with "*#Fields:*" defines the order of the fields in the file (1st column=date, 2nd column=time, etc.). **You can assume that this order will not change through the file**.
 * For each line in the logfile, a *logentry* node should be created in the XML and one element per column for each value
 * Take only the fields **date, time, s-sitename, s-computername und s-ip** into account. All other fields can be ignored
-* The xml file should be **saved under /src/Data/testdata-trans.xml** in the respository and comitted to the repository
+* The xml file should be **saved under /src/Data/testdata-trans.xml** in the respository
 * Make sure, that **memory consumption** of the application is low, even if the logfile is very big (e.g. several TB) 
 
 ## Project REST-API
